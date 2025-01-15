@@ -65,14 +65,11 @@ input{
 @media (max-width: 768px) {
     .row{
         display: flex;
+        margin-bottom: 32px;
     }
     .column {
         flex: 1 1 calc(100% - 20px);
         
-    }
-    .card img{
-        height: 65%;
-      
     }
 }
 
